@@ -59,4 +59,4 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
   
 
 
-> Escrito por [Yadiel Ficachi](https://github.com/YadielFicachi.
+> Escrito por [Yadiel Ficachi](https://github.com/YadielFicachi)
