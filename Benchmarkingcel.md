@@ -44,10 +44,15 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 
 ## Cámara frontal
 
-| Column 1 | Column 2 |
-|:--------:| -------------:|
-| centered | right-aligned |
-  
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte delantera |
+| Sensor de imagen | 8 Mpx |
+| Flash| Led |
+| Resolución fotográfica | 3264x2448 px |
+| Zoom digital | No |
+
+
   
 
   
