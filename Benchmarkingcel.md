@@ -30,11 +30,26 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 
 #  Características de cámara
 
+## Cámara trasera
 
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte trasera |
+| Sensor de imagen | 13 Mpx |
+| Flash| Led |
+| Resolución de video | 1920x1080 |
+| Resolución fotográfica | 4192x3104 px |
+| Zoom digital | Sí |
+| Formatos de vídeo | H.263, H.264, MPEG4 - 30 fps |
 
+## Cámara frontal
+
+| Column 1 | Column 2 |
+|:--------:| -------------:|
+| centered | right-aligned |
   
   
-Fuente:  [https://www.caracteristicas.co/benchmarking/#ixzz59pr4m1kr](https://www.caracteristicas.co/benchmarking/#ixzz59pr4m1kr)
+
   
   
 
