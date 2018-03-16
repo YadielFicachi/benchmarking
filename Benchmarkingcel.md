@@ -363,9 +363,50 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 | Resolución fotográfica | 2592x1944 px|
 | Zoom digital | No |
 
-# Samsung Grand Prime +J
 
 # Samsung Galaxy Core 2
+| Característica | Descripción |
+|:--------:| :-------------:|
+| RED GSM | 850 900 1800 1900 |
+| Red UMTS (3G) | 900 1900 2100 |
+| Tipo | Táctil |
+| Dimensiones (Alto x Largo x Prof.) | 130,30 x 68,00 x 9,80 mm |
+| Peso | 139,00 g |
+| Pantalla | colorida / TFT, 256k colores, 480 x 800 px (4,50") 207 ppi |
+| Batería | Li-Ion 2000 mAh |
+| Memoria interna| 4 GB |
+| Memoria RAM| 768 MB |
+| Tarjetas de memoria| microSD, microSDHC, microSDXC (para 64 GB) |
+| Sistema operativo| Android 4.4.2 KitKat |
+| Procesador| Spreadtrum SC7735S, Frecuencia de reloj: 1,20 GHz, Cantidad de núcleos: 4, GPU: ARM Mali-400 MP4 |
+| Tipo de tarjeta SIM| microSIM|
+
+
+##  Características de cámara
+
+### Cámara trasera
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte trasera |
+| Sensor de imagen | 5 Mpx |
+| Flash| Led |
+| Resolución fotográfica | 2592x1944 px |
+| Formatos de Video | H.263, H.264, MPEG4 - 30 fps |
+| Resolución de Video | 720x480 |
+| Zoom digital | Sí |
+| Adicional | AF |
+
+
+### Cámara frontal
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte delantera |
+| Sensor de imagen | 0,3 Mpx |
+| Flash| No |
+| Resolución fotográfica | 640x480 px|
+| Zoom digital | No |
 
 # Samsung Galaxy SM-J700M
 
