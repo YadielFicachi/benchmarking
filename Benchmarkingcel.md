@@ -140,6 +140,51 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
   
   
   
+# Moto X
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| RED GSM | 850 900 1800 1900 |
+| Red UMTS (3G) | 900 2100 |
+| Tipo | Táctil |
+| Dimensiones (Alto x Largo x Prof.) | 129,30 x 65,30 x 10,40 mm |
+| Peso | 130,00 g |
+| Pantalla | colorida / AMOLED, 16M colores, 720 x 1280 px (4,70") 312 ppi |
+| Batería | Li-Ion 2200 mAh |
+| Memoria interna| 16 GB |
+| Memoria RAM| 2 GB |
+| Tarjetas de memoria| SIM |
+| Sistema operativo| Android 4.2.2 Jelly Bean |
+| Procesador|   Qualcomm MSM8960T, Frecuencia de reloj: 1,70 GHz, Cantidad de núcleos: 2, GPU: Adreno 320 |
+| Tipo de tarjeta SIM| SIM |
+
+
+##  Características de cámara
+
+### Cámara trasera
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte trasera |
+| Sensor de imagen | 10 Mpx |
+| Flash| Led |
+| Formatos de Video | H.263, H.264, MPEG4 |
+| Resolución de Video | 1920x1080 |
+| Zoom digital | Sí |
+
+
+### Cámara frontal
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte delantera |
+| Sensor de imagen | 2 Mpx |
+| Flash| No |
+| Resolución fotográfica | 1600x1200 px|
+| Zoom digital | No |
+
+
+
 # Motorola Moto G5
 
 | Característica | Descripción |
@@ -182,6 +227,5 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 | Flash| No |
 | Resolución fotográfica | 2592x1944 px|
 | Zoom digital | No |
-
 
 > Escrito por [Yadiel Ficachi](https://github.com/YadielFicachi)
