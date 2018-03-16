@@ -11,7 +11,7 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 # Alcatel Pixi 4 5.5" (5012G)
 
 | Característica | Descripción |
-|:--------:| -------------:|
+|:--------:| :-------------:|
 | RED GSM | 850 900 1800 1900 |
 | Red UMTS (3G) | 850 900 1700 1900 2100 |
 | Tipo | Táctil |
