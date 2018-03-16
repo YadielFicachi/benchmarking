@@ -346,10 +346,11 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 | Ubicación de cámara de fotos | Parte trasera |
 | Sensor de imagen | 13 Mpx |
 | Flash| Led |
-| Formatos de Video | H.263, H.264, MPEG4 - 30 fps |
+| Resolución fotográfica | 4160x3120 px |
+| Formatos de Video | H.263, H.264, MPEG4 |
 | Resolución de Video | 1920x1080 |
 | Zoom digital | Sí |
-| Adicional | AF, f/2.0 |
+| Adicional | AF |
 
 
 ### Cámara frontal
@@ -358,8 +359,7 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 |:--------:| :-------------:|
 | Ubicación de cámara de fotos | Parte delantera |
 | Sensor de imagen | 5 Mpx |
-| Flash| Si |
-| Resolución de video | 1280x720|
+| Flash| No |
 | Resolución fotográfica | 2592x1944 px|
 | Zoom digital | No |
 
