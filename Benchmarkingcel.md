@@ -139,6 +139,49 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 | Zoom digital | No |
   
   
+  
+# Motorola Moto G5
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| RED GSM | 850 900 1800 1900 |
+| Red UMTS (3G) | 850 900 1900 2100 |
+| Tipo | Táctil |
+| Dimensiones (Alto x Largo x Prof.) | 144,30 x 73,00 x 9,50 mm |
+| Peso | 144,50 g |
+| Pantalla | colorida / IPS TFT, 16M colores, 1080 x 1980 px (5,00") 451 ppi |
+| Batería | Li-Ion 2800 mAh |
+| Memoria interna| 16 GB |
+| Memoria RAM| 2 GB, 3GB |
+| Tarjetas de memoria| microSD, microSDHC, microSDXC (para 128 GB) |
+| Sistema operativo| Android 7.0 Nougat |
+| Procesador|   Qualcomm Snapdragon 430 8937, Frecuencia de reloj: 1,40 GHz, Cantidad de núcleos: 8, GPU: Adreno 505 |
+| Tipo de tarjeta SIM| nanoSIM, nanoSIM |
+
+
+##  Características de cámara
+
+### Cámara trasera
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte trasera |
+| Sensor de imagen | 13 Mpx |
+| Flash| Led |
+| Adicional | AF, f/2.0 |
+| Resolución de Video | 1920x1080 |
+| Zoom digital | Sí, 4X |
+
+
+### Cámara frontal
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte delantera |
+| Sensor de imagen | 5 Mpx |
+| Flash| No |
+| Resolución fotográfica | 2592x1944 px|
+| Zoom digital | No |
 
 
 > Escrito por [Yadiel Ficachi](https://github.com/YadielFicachi)
