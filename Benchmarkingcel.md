@@ -82,7 +82,7 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 | Flash| Led |
 | Resolución fotográfica | 4128x3096 px |
 | Zoom digital | Sí |
-|
+
 
 ### Cámara frontal
 
