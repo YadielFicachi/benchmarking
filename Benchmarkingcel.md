@@ -319,6 +319,49 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 | Zoom digital | No |
 
 # Huawei gr3 TAG-L13
+| Característica | Descripción |
+|:--------:| :-------------:|
+| RED GSM | 900 1800 1900 |
+| Red UMTS (3G) | 850 900 1900 2100 |
+| Tipo | Táctil |
+| Dimensiones (Alto x Largo x Prof.) | 143,50 x 71,00 x 7,60 mm |
+| Peso | 135,00 g |
+| Pantalla | colorida / IPS TFT, 16M colores, 720 x 1280 px (5,00") 294 ppi |
+| Batería | Li-Po 2200 mAh |
+| Memoria interna| 16 GB |
+| Memoria RAM| 2 GB |
+| Tarjetas de memoria| microSD, microSDHC, microSDXC (para 128 GB) |
+| Sistema operativo| Android 5.1 Lollipop |
+| Interfaz | EMUI 3.1 Lite |
+| Procesador| MediaTek MT6753, Frecuencia de reloj: 1,50 GHz, Cantidad de núcleos: 8, GPU: ARM Mali-T720 @450 MHz |
+| Tipo de tarjeta SIM| microSIM|
+
+
+##  Características de cámara
+
+### Cámara trasera
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte trasera |
+| Sensor de imagen | 13 Mpx |
+| Flash| Led |
+| Formatos de Video | H.263, H.264, MPEG4 - 30 fps |
+| Resolución de Video | 1920x1080 |
+| Zoom digital | Sí |
+| Adicional | AF, f/2.0 |
+
+
+### Cámara frontal
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte delantera |
+| Sensor de imagen | 5 Mpx |
+| Flash| Si |
+| Resolución de video | 1280x720|
+| Resolución fotográfica | 2592x1944 px|
+| Zoom digital | No |
 
 # Samsung Grand Prime +J
 
