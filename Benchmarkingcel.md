@@ -95,7 +95,48 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 | Zoom digital | No |
 
   
+# Motorola Moto G4 Play
 
+| Característica | Descripción |
+|:--------:| :-------------:|
+| RED GSM | 850 900 1800 1900 |
+| Red UMTS (3G) | 850 900 1700 1900 2100 |
+| Tipo | Táctil |
+| Dimensiones (Alto x Largo x Prof.) | 144,40 x 72,00 x 9,90 mm |
+| Peso | 137,00 g |
+| Pantalla | colorida / IPS TFT - 16M colores - 720 x 1280 px (5,00") 294 ppi |
+| Batería | Li-Ion 2800 mAh |
+| Memoria interna| 16 GB |
+| Memoria RAM| 2 GB, 3GB |
+| Tarjetas de memoria| microSD, microSDHC, microSDXC (para 128 GB) |
+| Sistema operativo| Android 6.0.1 Marshmallow |
+| Procesador|   Qualcomm Snapdragon 410 8916, Frecuencia de reloj: 1,20 GHz, Cantidad de núcleos: 4, GPU: Adreno 306 |
+| Tipo de tarjeta SIM| microSIM |
+
+
+##  Características de cámara
+
+### Cámara trasera
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte trasera |
+| Sensor de imagen | 8 Mpx |
+| Flash| Led |
+| Adicional | AF, Autofoco por láser, f/2.2 |
+| Resolución de Video | 1920x1080 |
+| Zoom digital | Sí, 4X |
+
+
+### Cámara frontal
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte delantera |
+| Sensor de imagen | 5 Mpx |
+| Flash| No |
+| Resolución fotográfica | 2592x1944 px|
+| Zoom digital | No |
   
   
 
