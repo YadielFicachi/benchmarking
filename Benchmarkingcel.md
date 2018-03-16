@@ -273,4 +273,58 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 | Resolución fotográfica | 2592x1944 px|
 | Zoom digital | No |
 
+
+# Moto E4 Plus
+| Característica | Descripción |
+|:--------:| :-------------:|
+| RED GSM | 850 900 1800 1900 |
+| Red UMTS (3G) | 850 900 1700 1900 2100 |
+| Tipo | Táctil |
+| Dimensiones (Alto x Largo x Prof.) | 155,00 x 77,50 x 9,55 mm |
+| Peso | 181,00 g |
+| Pantalla | colorida / TFT, 16M colores,  720 x 1280 px (5,50") 267 ppicolorida / Super AMOLED, 16M colores, 720 x 1280 px (5,00") 294 ppi |
+| Batería |  Li-Ion 5000 mAh |
+| Memoria interna| 16 GB, 32 GB |
+| Memoria RAM| 2 GB, 3GB |
+| Tarjetas de memoria| microSD, microSDHC, microSDXC) |
+| Sistema operativo| Android 7.1 Nougat |
+| Procesador|   Qualcomm Snapdragon 427 8920, Frecuencia de reloj: 1,40 GHz, Cantidad de núcleos: 4, GPU: Adreno 308Qualcomm Snapdragon 410 8916, Frecuencia de reloj: 1,20 GHz, Cantidad de núcleos: 4, GPU: Adreno 306 |
+| Tipo de tarjeta SIM| nanoSIM |
+
+
+##  Características de cámara
+
+### Cámara trasera
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte trasera |
+| Sensor de imagen | 13 Mpx |
+| Flash| Led |
+| Formatos de Video | H.263, H.264, MPEG4 - 30 fps |
+| Resolución de Video | 1920x1080 |
+| Zoom digital | Sí |
+| Adicional | AF, f/2.0 |
+
+
+### Cámara frontal
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte delantera |
+| Sensor de imagen | 5 Mpx |
+| Flash| Si |
+| Resolución de video | 1280x720|
+| Resolución fotográfica | 2592x1944 px|
+| Zoom digital | No |
+
+# Huawei gr3 TAG-L13
+
+# Samsung Grand Prime +J
+
+# Samsung Galaxy Core 2
+
+# Samsung Galaxy SM-J700M
+
+# Iphone 6 mg3a2cl/a
 > Escrito por [Yadiel Ficachi](https://github.com/YadielFicachi)
