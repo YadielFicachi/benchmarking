@@ -20,7 +20,6 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 | Pantalla | colorida / IPS TFT - 16M colores  - 720 x 1280 px (5,50") 267 ppi |
 | Batería | Li-Ion 2500 mAh |
 | Memoria interna| 8 GB |
-| Memoria de usuario| 4,5 GB |
 | Memoria RAM| 1 GB |
 | Tarjetas de memoria| microSD, microSDHC (para 32 GB) |
 | Sistema operativo| Android 6.0 Marshmallow |
@@ -28,9 +27,9 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 | Tipo de tarjeta SIM| microSIM |
 
 
-#  Características de cámara
+##  Características de cámara
 
-## Cámara trasera
+### Cámara trasera
 
 | Característica | Descripción |
 |:--------:| :-------------:|
@@ -42,7 +41,7 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 | Zoom digital | Sí |
 | Formatos de vídeo | H.263, H.264, MPEG4 - 30 fps |
 
-## Cámara frontal
+### Cámara frontal
 
 | Característica | Descripción |
 |:--------:| :-------------:|
@@ -52,6 +51,48 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 | Resolución fotográfica | 3264x2448 px |
 | Zoom digital | No |
 
+
+# Lenovo Vibe K5
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| RED GSM | 850 900 1800 1900 |
+| Red UMTS (3G) | 850 900 1900 2100 |
+| Tipo | Táctil |
+| Dimensiones (Alto x Largo x Prof.) | 142,00 x 71,00 x 8,20 mm |
+| Peso | 150,00 g |
+| Pantalla | colorida / IPS TFT - 16M colores - 720 x 1280 px (5,00") 294 ppi |
+| Batería | Li-Ion 2750 mAh |
+| Memoria interna| 16 GB |
+| Memoria RAM| 2 GB |
+| Tarjetas de memoria| microSD, microSDHC (para 32 GB)) |
+| Sistema operativo| Android 5.1 Lollipop |
+| Procesador|   Qualcomm Snapdragon 415, Frecuencia de reloj: 1,40 GHz, Cantidad de núcleos: 8, GPU: Adreno 405 |
+| Tipo de tarjeta SIM| Dual-  microSIM, microSIM |
+
+
+##  Características de cámara
+
+### Cámara trasera
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte trasera |
+| Sensor de imagen | 13 Mpx |
+| Flash| Led |
+| Resolución fotográfica | 4128x3096 px |
+| Zoom digital | Sí |
+|
+
+### Cámara frontal
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte delantera |
+| Sensor de imagen | 5 Mpx |
+| Flash| No |
+| Resolución fotográfica | 2592x1944 px |
+| Zoom digital | No |
 
   
 
