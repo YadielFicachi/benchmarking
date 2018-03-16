@@ -153,7 +153,7 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 | Batería | Li-Ion 2200 mAh |
 | Memoria interna| 16 GB |
 | Memoria RAM| 2 GB |
-| Tarjetas de memoria| SIM |
+| Tarjetas de memoria| microSD |
 | Sistema operativo| Android 4.2.2 Jelly Bean |
 | Procesador|   Qualcomm MSM8960T, Frecuencia de reloj: 1,70 GHz, Cantidad de núcleos: 2, GPU: Adreno 320 |
 | Tipo de tarjeta SIM| SIM |
@@ -216,6 +216,51 @@ El  _benchmarking_  brinda las herramientas para alcanzar esa mirada sinóptica:
 | Adicional | AF, f/2.0 |
 | Resolución de Video | 1920x1080 |
 | Zoom digital | Sí, 4X |
+
+
+### Cámara frontal
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte delantera |
+| Sensor de imagen | 5 Mpx |
+| Flash| No |
+| Resolución fotográfica | 2592x1944 px|
+| Zoom digital | No |
+
+
+# Samsung Galaxy A5
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| RED GSM | 850 900 1800 1900 |
+| Red UMTS (3G) | 850 900 1900 2100 |
+| Tipo | Táctil |
+| Dimensiones (Alto x Largo x Prof.) | 139,30 x 69,70 x 6,70 mm |
+| Peso | 123,00 g |
+| Pantalla | colorida / Super AMOLED, 16M colores, 720 x 1280 px (5,00") 294 ppi |
+| Batería |  Li-Ion 2300 mAh |
+| Memoria interna| 16 GB |
+| Memoria RAM| 2 GB, 3GB |
+| Tarjetas de memoria| microSD, microSDHC, microSDXC (para 64 GB) |
+| Sistema operativo| Android 4.4.4 KitKat |
+| Procesador|   Qualcomm Snapdragon 410 8916, Frecuencia de reloj: 1,20 GHz, Cantidad de núcleos: 4, GPU: Adreno 306 |
+| Tipo de tarjeta SIM| nanoSIM |
+
+
+##  Características de cámara
+
+### Cámara trasera
+
+| Característica | Descripción |
+|:--------:| :-------------:|
+| Ubicación de cámara de fotos | Parte trasera |
+| Sensor de imagen | 13 Mpx |
+| Flash| Led |
+| Resolución Fotográfica | 4128x3096 px |
+| Resolución de Video | 1920x1080 |
+| Zoom digital | Sí |
+| Modelo de Sensor | Sony IMX135 |
 
 
 ### Cámara frontal
