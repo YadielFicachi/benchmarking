@@ -498,6 +498,13 @@ Comparativa de las fotos tomadas de los distintos celulares en circunstancias ig
 | **Samsung Galaxy Core 2** | ![enter image description here](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29315332_1557875030935123_8828119476642775040_n.jpg?oh=88d7258430ea3669dbd6f910d4510490&oe=5B2E6DBE) | ![enter image description here](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29249470_1557872974268662_2608329283763961856_n.jpg?oh=5c3e54e8f01478af953e0282b320b767&oe=5B4E645A) | ![enter image description here](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29250143_1557873504268609_3117708183116709888_n.jpg?_nc_cat=0&oh=e9d17c1900bf63c55d0cba16660cd785&oe=5B31D3B7) | ![enter image description here](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29315146_1557873214268638_1565286636160286720_n.jpg?oh=55af9a27a183d3f4153ae62b16797918&oe=5B41809B) |
 
 # Conclusión
+El benchmarking es una de las herramientas que mejora una empresa, un producto o un servicio, a tal grado de poder innovar procesos. De esta manera se pueden ofrecer distintas opciones al público y elegir la más conveniente para cada uno.
+
+Utilizando esta herramienta, se realizó la investigación acerca de los distintos celulares, y la calidad que cada uno tiene en relación con su cámara tomando rubros en la mismas circunstancias.
 
 
+En la actualidad las empresas tienen que competir no sólo con empresas de la misma región, sino que se presenta una competencia cada vez mayor con otras empresas de otros lugares y países, lo anterior debido a la globalización que se ha estado presentando. Es por lo anterior que las empresas deben buscar formas que puedan apuntar hacia una productividad y calidad mayor para poder ser competitivos. 
+  El benchmarking constituye una de estas herramientas, que mantiene a la organización en un proceso de continua investigación y medición de procesos, tanto internos como de otras instituciones, con el fin de buscar los más altos estándares con que comparar la gestión del propio grupo de trabajo, ayudando a la buena administración de la organización.
+
+El Benchmarking debe ser parte integral del proceso de planeación y fijación de metas de la organización.
 > Escrito por [Yadiel Ficachi](https://github.com/YadielFicachi)
