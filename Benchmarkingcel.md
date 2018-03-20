@@ -502,9 +502,8 @@ El benchmarking es una de las herramientas que mejora una empresa, un producto o
 
 Utilizando esta herramienta, se realizó la investigación acerca de los distintos celulares, y la calidad que cada uno tiene en relación con su cámara tomando rubros en la mismas circunstancias.
 
+Así también las empresas tienen que competir no sólo con empresas de la misma región, sino que se presenta una competencia cada vez mayor con otras empresas de otros lugares. Es por eso que las empresas deben buscar formas que puedan apuntar hacia una productividad y calidad mayor para poder ser competitivos. 
 
-En la actualidad las empresas tienen que competir no sólo con empresas de la misma región, sino que se presenta una competencia cada vez mayor con otras empresas de otros lugares y países, lo anterior debido a la globalización que se ha estado presentando. Es por lo anterior que las empresas deben buscar formas que puedan apuntar hacia una productividad y calidad mayor para poder ser competitivos. 
-  El benchmarking constituye una de estas herramientas, que mantiene a la organización en un proceso de continua investigación y medición de procesos, tanto internos como de otras instituciones, con el fin de buscar los más altos estándares con que comparar la gestión del propio grupo de trabajo, ayudando a la buena administración de la organización.
+El benchmarking permite mantener una medición de procesos, tanto internos como de otras empresas, por tal motivo debe ser parte integral del proceso de planeación en las metas de la empresa.
 
-El Benchmarking debe ser parte integral del proceso de planeación y fijación de metas de la organización.
 > Escrito por [Yadiel Ficachi](https://github.com/YadielFicachi)
